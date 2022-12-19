@@ -1,0 +1,4 @@
+<filesMatch "\.(html)$">
+   AddDefaultCharset UTF-8
+   DefaultLanguage en-US
+</filesMatch>
