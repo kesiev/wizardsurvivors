@@ -40,10 +40,6 @@ _Pro-tip: never give free carefully crafted distractions at the start of a confe
 
 The game should work without problems if run from a local file. You may need the `.htaccess` file if you want to host it on the web.
 
-## Tech notes
-
-The game should run OK if you load `.html`
-
 ## Credits
 
 ### Thanks
